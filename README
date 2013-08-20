@@ -1,0 +1,13 @@
+Installation
+============
+
+1. Install RVM
+	$ \curl -L https://get.rvm.io | bash -s stable --ruby
+	
+
+2. Using Bundler to install all dependencies
+	llassets $ bundle install
+	
+3. Start guard
+	llassets $ guard 
+
