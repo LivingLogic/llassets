@@ -21,7 +21,7 @@ Manifest file:
 	app/assets/javascripts/application.js
 
 Postprocessed and minified file: 
-	public/javascripts/application.js
+	app/assets/javascripts/application.min.js
 		
 Typical 'Sprockets' directives can be used. See https://github.com/sstephenson/sprockets#the-directive-processor 
 for more information.

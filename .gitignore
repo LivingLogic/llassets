@@ -8,6 +8,9 @@
 /.bundle
 Gemfile.lock
 
+# Ignore project specific demo file
+/app/assets/javascripts/application.min.js
+
 # Ignore the default SQLite database.
 /db/*.sqlite3
 
